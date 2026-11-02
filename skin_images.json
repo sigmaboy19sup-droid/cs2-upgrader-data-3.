@@ -1,0 +1,1438 @@
+{
+  "skin-e757fd7191f9_0": {
+    "name": "★ Hand Wraps | Spruce DDPAT (Factory New)",
+    "assetId": "114751929449642",
+    "image": "rbxassetid://114751929449642"
+  },
+  "skin-e757fd7191f9_1": {
+    "name": "★ Hand Wraps | Spruce DDPAT (Minimal Wear)",
+    "assetId": "81605849832646",
+    "image": "rbxassetid://81605849832646"
+  },
+  "skin-e757fd7191f9_2": {
+    "name": "★ Hand Wraps | Spruce DDPAT (Field-Tested)",
+    "assetId": "125661723609402",
+    "image": "rbxassetid://125661723609402"
+  },
+  "skin-e757fd7191f9_3": {
+    "name": "★ Hand Wraps | Spruce DDPAT (Well-Worn)",
+    "assetId": "112087920234193",
+    "image": "rbxassetid://112087920234193"
+  },
+  "skin-e757fd7191f9_4": {
+    "name": "★ Hand Wraps | Spruce DDPAT (Battle-Scarred)",
+    "assetId": "124302299605526",
+    "image": "rbxassetid://124302299605526"
+  },
+  "skin-7646a28247e0_0": {
+    "name": "★ Hand Wraps | Desert Shamagh (Factory New)",
+    "assetId": "137582285995399",
+    "image": "rbxassetid://137582285995399"
+  },
+  "skin-7646a28247e0_1": {
+    "name": "★ Hand Wraps | Desert Shamagh (Minimal Wear)",
+    "assetId": "139959305660612",
+    "image": "rbxassetid://139959305660612"
+  },
+  "skin-7646a28247e0_2": {
+    "name": "★ Hand Wraps | Desert Shamagh (Field-Tested)",
+    "assetId": "88120979566538",
+    "image": "rbxassetid://88120979566538"
+  },
+  "skin-7646a28247e0_3": {
+    "name": "★ Hand Wraps | Desert Shamagh (Well-Worn)",
+    "assetId": "126386946793310",
+    "image": "rbxassetid://126386946793310"
+  },
+  "skin-7646a28247e0_4": {
+    "name": "★ Hand Wraps | Desert Shamagh (Battle-Scarred)",
+    "assetId": "131134484501771",
+    "image": "rbxassetid://131134484501771"
+  },
+  "skin-71c8a21234d4_0": {
+    "name": "★ Hand Wraps | Badlands (Factory New)",
+    "assetId": "106508042416789",
+    "image": "rbxassetid://106508042416789"
+  },
+  "skin-71c8a21234d4_1": {
+    "name": "★ Hand Wraps | Badlands (Minimal Wear)",
+    "assetId": "127667902156435",
+    "image": "rbxassetid://127667902156435"
+  },
+  "skin-71c8a21234d4_2": {
+    "name": "★ Hand Wraps | Badlands (Field-Tested)",
+    "assetId": "75963348331544",
+    "image": "rbxassetid://75963348331544"
+  },
+  "skin-71c8a21234d4_3": {
+    "name": "★ Hand Wraps | Badlands (Well-Worn)",
+    "assetId": "75724025578948",
+    "image": "rbxassetid://75724025578948"
+  },
+  "skin-71c8a21234d4_4": {
+    "name": "★ Hand Wraps | Badlands (Battle-Scarred)",
+    "assetId": "92873561683096",
+    "image": "rbxassetid://92873561683096"
+  },
+  "skin-e728cedb22fe_0": {
+    "name": "★ Hand Wraps | CAUTION! (Factory New)",
+    "assetId": "113136187933925",
+    "image": "rbxassetid://113136187933925"
+  },
+  "skin-e728cedb22fe_1": {
+    "name": "★ Hand Wraps | CAUTION! (Minimal Wear)",
+    "assetId": "92101726753365",
+    "image": "rbxassetid://92101726753365"
+  },
+  "skin-e728cedb22fe_2": {
+    "name": "★ Hand Wraps | CAUTION! (Field-Tested)",
+    "assetId": "81699976190549",
+    "image": "rbxassetid://81699976190549"
+  },
+  "skin-e728cedb22fe_3": {
+    "name": "★ Hand Wraps | CAUTION! (Well-Worn)",
+    "assetId": "110410554120609",
+    "image": "rbxassetid://110410554120609"
+  },
+  "skin-e728cedb22fe_4": {
+    "name": "★ Hand Wraps | CAUTION! (Battle-Scarred)",
+    "assetId": "86049630080335",
+    "image": "rbxassetid://86049630080335"
+  },
+  "skin-03513562b183_0": {
+    "name": "★ Hand Wraps | Duct Tape (Factory New)",
+    "assetId": "99166580007237",
+    "image": "rbxassetid://99166580007237"
+  },
+  "skin-03513562b183_1": {
+    "name": "★ Hand Wraps | Duct Tape (Minimal Wear)",
+    "assetId": "75268627785598",
+    "image": "rbxassetid://75268627785598"
+  },
+  "skin-03513562b183_2": {
+    "name": "★ Hand Wraps | Duct Tape (Field-Tested)",
+    "assetId": "96419557796075",
+    "image": "rbxassetid://96419557796075"
+  },
+  "skin-03513562b183_3": {
+    "name": "★ Hand Wraps | Duct Tape (Well-Worn)",
+    "assetId": "112198892201833",
+    "image": "rbxassetid://112198892201833"
+  },
+  "skin-03513562b183_4": {
+    "name": "★ Hand Wraps | Duct Tape (Battle-Scarred)",
+    "assetId": "116303894263782",
+    "image": "rbxassetid://116303894263782"
+  },
+  "skin-a4133c8cedcb_0": {
+    "name": "★ Hand Wraps | Cobalt Skulls (Factory New)",
+    "assetId": "121962501476069",
+    "image": "rbxassetid://121962501476069"
+  },
+  "skin-a4133c8cedcb_1": {
+    "name": "★ Hand Wraps | Cobalt Skulls (Minimal Wear)",
+    "assetId": "76601890376554",
+    "image": "rbxassetid://76601890376554"
+  },
+  "skin-a4133c8cedcb_2": {
+    "name": "★ Hand Wraps | Cobalt Skulls (Field-Tested)",
+    "assetId": "76357800983531",
+    "image": "rbxassetid://76357800983531"
+  },
+  "skin-a4133c8cedcb_3": {
+    "name": "★ Hand Wraps | Cobalt Skulls (Well-Worn)",
+    "assetId": "71174537167405",
+    "image": "rbxassetid://71174537167405"
+  },
+  "skin-a4133c8cedcb_4": {
+    "name": "★ Hand Wraps | Cobalt Skulls (Battle-Scarred)",
+    "assetId": "135170886934345",
+    "image": "rbxassetid://135170886934345"
+  },
+  "skin-438616f5a678_0": {
+    "name": "★ Hand Wraps | Overprint (Factory New)",
+    "assetId": "140222791436288",
+    "image": "rbxassetid://140222791436288"
+  },
+  "skin-438616f5a678_1": {
+    "name": "★ Hand Wraps | Overprint (Minimal Wear)",
+    "assetId": "135219871331170",
+    "image": "rbxassetid://135219871331170"
+  },
+  "skin-438616f5a678_2": {
+    "name": "★ Hand Wraps | Overprint (Field-Tested)",
+    "assetId": "94474937193718",
+    "image": "rbxassetid://94474937193718"
+  },
+  "skin-438616f5a678_3": {
+    "name": "★ Hand Wraps | Overprint (Well-Worn)",
+    "assetId": "99413988489009",
+    "image": "rbxassetid://99413988489009"
+  },
+  "skin-438616f5a678_4": {
+    "name": "★ Hand Wraps | Overprint (Battle-Scarred)",
+    "assetId": "134651925434998",
+    "image": "rbxassetid://134651925434998"
+  },
+  "skin-cde47366da64_0": {
+    "name": "★ Hand Wraps | Giraffe (Factory New)",
+    "assetId": "112925148891296",
+    "image": "rbxassetid://112925148891296"
+  },
+  "skin-cde47366da64_1": {
+    "name": "★ Hand Wraps | Giraffe (Minimal Wear)",
+    "assetId": "73791131837247",
+    "image": "rbxassetid://73791131837247"
+  },
+  "skin-cde47366da64_2": {
+    "name": "★ Hand Wraps | Giraffe (Field-Tested)",
+    "assetId": "107247004339458",
+    "image": "rbxassetid://107247004339458"
+  },
+  "skin-cde47366da64_3": {
+    "name": "★ Hand Wraps | Giraffe (Well-Worn)",
+    "assetId": "122518214394826",
+    "image": "rbxassetid://122518214394826"
+  },
+  "skin-cde47366da64_4": {
+    "name": "★ Hand Wraps | Giraffe (Battle-Scarred)",
+    "assetId": "91904384208821",
+    "image": "rbxassetid://91904384208821"
+  },
+  "skin-51c5ce405526_0": {
+    "name": "★ Hand Wraps | Arboreal (Factory New)",
+    "assetId": "114848835698053",
+    "image": "rbxassetid://114848835698053"
+  },
+  "skin-51c5ce405526_1": {
+    "name": "★ Hand Wraps | Arboreal (Minimal Wear)",
+    "assetId": "131589296330942",
+    "image": "rbxassetid://131589296330942"
+  },
+  "skin-51c5ce405526_2": {
+    "name": "★ Hand Wraps | Arboreal (Field-Tested)",
+    "assetId": "126342291710407",
+    "image": "rbxassetid://126342291710407"
+  },
+  "skin-51c5ce405526_3": {
+    "name": "★ Hand Wraps | Arboreal (Well-Worn)",
+    "assetId": "109533228494267",
+    "image": "rbxassetid://109533228494267"
+  },
+  "skin-51c5ce405526_4": {
+    "name": "★ Hand Wraps | Arboreal (Battle-Scarred)",
+    "assetId": "90175766260388",
+    "image": "rbxassetid://90175766260388"
+  },
+  "skin-fb30d56f4210_0": {
+    "name": "★ Hand Wraps | Leather (Factory New)",
+    "assetId": "100064442771012",
+    "image": "rbxassetid://100064442771012"
+  },
+  "skin-fb30d56f4210_1": {
+    "name": "★ Hand Wraps | Leather (Minimal Wear)",
+    "assetId": "115032463290322",
+    "image": "rbxassetid://115032463290322"
+  },
+  "skin-fb30d56f4210_2": {
+    "name": "★ Hand Wraps | Leather (Field-Tested)",
+    "assetId": "70681832985026",
+    "image": "rbxassetid://70681832985026"
+  },
+  "skin-fb30d56f4210_3": {
+    "name": "★ Hand Wraps | Leather (Well-Worn)",
+    "assetId": "123582888430091",
+    "image": "rbxassetid://123582888430091"
+  },
+  "skin-fb30d56f4210_4": {
+    "name": "★ Hand Wraps | Leather (Battle-Scarred)",
+    "assetId": "74321783169769",
+    "image": "rbxassetid://74321783169769"
+  },
+  "skin-be5a5c9a12c2_0": {
+    "name": "★ Hand Wraps | Constrictor (Factory New)",
+    "assetId": "84201820012896",
+    "image": "rbxassetid://84201820012896"
+  },
+  "skin-be5a5c9a12c2_1": {
+    "name": "★ Hand Wraps | Constrictor (Minimal Wear)",
+    "assetId": "94553915322770",
+    "image": "rbxassetid://94553915322770"
+  },
+  "skin-be5a5c9a12c2_2": {
+    "name": "★ Hand Wraps | Constrictor (Field-Tested)",
+    "assetId": "129832184042532",
+    "image": "rbxassetid://129832184042532"
+  },
+  "skin-be5a5c9a12c2_3": {
+    "name": "★ Hand Wraps | Constrictor (Well-Worn)",
+    "assetId": "134856691065600",
+    "image": "rbxassetid://134856691065600"
+  },
+  "skin-be5a5c9a12c2_4": {
+    "name": "★ Hand Wraps | Constrictor (Battle-Scarred)",
+    "assetId": "118698018802595",
+    "image": "rbxassetid://118698018802595"
+  },
+  "skin-1f6ac4772c2b_0": {
+    "name": "★ Hand Wraps | Slaughter (Factory New)",
+    "assetId": "103094410355343",
+    "image": "rbxassetid://103094410355343"
+  },
+  "skin-1f6ac4772c2b_1": {
+    "name": "★ Hand Wraps | Slaughter (Minimal Wear)",
+    "assetId": "84714760002572",
+    "image": "rbxassetid://84714760002572"
+  },
+  "skin-1f6ac4772c2b_2": {
+    "name": "★ Hand Wraps | Slaughter (Field-Tested)",
+    "assetId": "71670304274288",
+    "image": "rbxassetid://71670304274288"
+  },
+  "skin-1f6ac4772c2b_3": {
+    "name": "★ Hand Wraps | Slaughter (Well-Worn)",
+    "assetId": "116937964015378",
+    "image": "rbxassetid://116937964015378"
+  },
+  "skin-1f6ac4772c2b_4": {
+    "name": "★ Hand Wraps | Slaughter (Battle-Scarred)",
+    "assetId": "131905380148511",
+    "image": "rbxassetid://131905380148511"
+  },
+  "skin-d8671b33d6d9_0": {
+    "name": "★ Moto Gloves | Eclipse (Factory New)",
+    "assetId": "111036097073851",
+    "image": "rbxassetid://111036097073851"
+  },
+  "skin-d8671b33d6d9_1": {
+    "name": "★ Moto Gloves | Eclipse (Minimal Wear)",
+    "assetId": "114730241164684",
+    "image": "rbxassetid://114730241164684"
+  },
+  "skin-d8671b33d6d9_2": {
+    "name": "★ Moto Gloves | Eclipse (Field-Tested)",
+    "assetId": "85726256632269",
+    "image": "rbxassetid://85726256632269"
+  },
+  "skin-d8671b33d6d9_3": {
+    "name": "★ Moto Gloves | Eclipse (Well-Worn)",
+    "assetId": "112261785821122",
+    "image": "rbxassetid://112261785821122"
+  },
+  "skin-d8671b33d6d9_4": {
+    "name": "★ Moto Gloves | Eclipse (Battle-Scarred)",
+    "assetId": "89778318837875",
+    "image": "rbxassetid://89778318837875"
+  },
+  "skin-6bd9ed91c37e_0": {
+    "name": "★ Moto Gloves | Turtle (Factory New)",
+    "assetId": "86073080646031",
+    "image": "rbxassetid://86073080646031"
+  },
+  "skin-6bd9ed91c37e_1": {
+    "name": "★ Moto Gloves | Turtle (Minimal Wear)",
+    "assetId": "82074415927667",
+    "image": "rbxassetid://82074415927667"
+  },
+  "skin-6bd9ed91c37e_2": {
+    "name": "★ Moto Gloves | Turtle (Field-Tested)",
+    "assetId": "101892137521957",
+    "image": "rbxassetid://101892137521957"
+  },
+  "skin-6bd9ed91c37e_3": {
+    "name": "★ Moto Gloves | Turtle (Well-Worn)",
+    "assetId": "102625140172711",
+    "image": "rbxassetid://102625140172711"
+  },
+  "skin-6bd9ed91c37e_4": {
+    "name": "★ Moto Gloves | Turtle (Battle-Scarred)",
+    "assetId": "83591891579865",
+    "image": "rbxassetid://83591891579865"
+  },
+  "skin-38236b83de3c_0": {
+    "name": "★ Moto Gloves | Blood Pressure (Factory New)",
+    "assetId": "77811634748010",
+    "image": "rbxassetid://77811634748010"
+  },
+  "skin-38236b83de3c_1": {
+    "name": "★ Moto Gloves | Blood Pressure (Minimal Wear)",
+    "assetId": "82320842509141",
+    "image": "rbxassetid://82320842509141"
+  },
+  "skin-38236b83de3c_2": {
+    "name": "★ Moto Gloves | Blood Pressure (Field-Tested)",
+    "assetId": "102493104205138",
+    "image": "rbxassetid://102493104205138"
+  },
+  "skin-38236b83de3c_3": {
+    "name": "★ Moto Gloves | Blood Pressure (Well-Worn)",
+    "assetId": "138115456700172",
+    "image": "rbxassetid://138115456700172"
+  },
+  "skin-38236b83de3c_4": {
+    "name": "★ Moto Gloves | Blood Pressure (Battle-Scarred)",
+    "assetId": "112297120084932",
+    "image": "rbxassetid://112297120084932"
+  },
+  "skin-a35568f027a4_0": {
+    "name": "★ Moto Gloves | Finish Line (Factory New)",
+    "assetId": "128119315722996",
+    "image": "rbxassetid://128119315722996"
+  },
+  "skin-a35568f027a4_1": {
+    "name": "★ Moto Gloves | Finish Line (Minimal Wear)",
+    "assetId": "129353829485339",
+    "image": "rbxassetid://129353829485339"
+  },
+  "skin-a35568f027a4_2": {
+    "name": "★ Moto Gloves | Finish Line (Field-Tested)",
+    "assetId": "127154469052426",
+    "image": "rbxassetid://127154469052426"
+  },
+  "skin-a35568f027a4_3": {
+    "name": "★ Moto Gloves | Finish Line (Well-Worn)",
+    "assetId": "90554343269974",
+    "image": "rbxassetid://90554343269974"
+  },
+  "skin-a35568f027a4_4": {
+    "name": "★ Moto Gloves | Finish Line (Battle-Scarred)",
+    "assetId": "104736475102303",
+    "image": "rbxassetid://104736475102303"
+  },
+  "skin-509033032197_0": {
+    "name": "★ Moto Gloves | POW! (Factory New)",
+    "assetId": "99190991199086",
+    "image": "rbxassetid://99190991199086"
+  },
+  "skin-509033032197_1": {
+    "name": "★ Moto Gloves | POW! (Minimal Wear)",
+    "assetId": "135807453872348",
+    "image": "rbxassetid://135807453872348"
+  },
+  "skin-509033032197_2": {
+    "name": "★ Moto Gloves | POW! (Field-Tested)",
+    "assetId": "113758250002962",
+    "image": "rbxassetid://113758250002962"
+  },
+  "skin-509033032197_3": {
+    "name": "★ Moto Gloves | POW! (Well-Worn)",
+    "assetId": "87677406491996",
+    "image": "rbxassetid://87677406491996"
+  },
+  "skin-509033032197_4": {
+    "name": "★ Moto Gloves | POW! (Battle-Scarred)",
+    "assetId": "123296118079558",
+    "image": "rbxassetid://123296118079558"
+  },
+  "skin-5cbc5bc584a3_0": {
+    "name": "★ Moto Gloves | 3rd Commando Company (Factory New)",
+    "assetId": "86641805686086",
+    "image": "rbxassetid://86641805686086"
+  },
+  "skin-5cbc5bc584a3_1": {
+    "name": "★ Moto Gloves | 3rd Commando Company (Minimal Wear)",
+    "assetId": "86878141337910",
+    "image": "rbxassetid://86878141337910"
+  },
+  "skin-5cbc5bc584a3_2": {
+    "name": "★ Moto Gloves | 3rd Commando Company (Field-Tested)",
+    "assetId": "126686994647864",
+    "image": "rbxassetid://126686994647864"
+  },
+  "skin-5cbc5bc584a3_3": {
+    "name": "★ Moto Gloves | 3rd Commando Company (Well-Worn)",
+    "assetId": "92042697589769",
+    "image": "rbxassetid://92042697589769"
+  },
+  "skin-5cbc5bc584a3_4": {
+    "name": "★ Moto Gloves | 3rd Commando Company (Battle-Scarred)",
+    "assetId": "71077052018976",
+    "image": "rbxassetid://71077052018976"
+  },
+  "skin-a363d8de9765_0": {
+    "name": "★ Moto Gloves | Spearmint (Factory New)",
+    "assetId": "128274116951334",
+    "image": "rbxassetid://128274116951334"
+  },
+  "skin-a363d8de9765_1": {
+    "name": "★ Moto Gloves | Spearmint (Minimal Wear)",
+    "assetId": "114792533596737",
+    "image": "rbxassetid://114792533596737"
+  },
+  "skin-a363d8de9765_2": {
+    "name": "★ Moto Gloves | Spearmint (Field-Tested)",
+    "assetId": "74739876430545",
+    "image": "rbxassetid://74739876430545"
+  },
+  "skin-a363d8de9765_3": {
+    "name": "★ Moto Gloves | Spearmint (Well-Worn)",
+    "assetId": "131457440892187",
+    "image": "rbxassetid://131457440892187"
+  },
+  "skin-a363d8de9765_4": {
+    "name": "★ Moto Gloves | Spearmint (Battle-Scarred)",
+    "assetId": "95230005176542",
+    "image": "rbxassetid://95230005176542"
+  },
+  "skin-b3e2c06aad05_0": {
+    "name": "★ Moto Gloves | Boom! (Factory New)",
+    "assetId": "124909001857507",
+    "image": "rbxassetid://124909001857507"
+  },
+  "skin-b3e2c06aad05_1": {
+    "name": "★ Moto Gloves | Boom! (Minimal Wear)",
+    "assetId": "130603137844815",
+    "image": "rbxassetid://130603137844815"
+  },
+  "skin-b3e2c06aad05_2": {
+    "name": "★ Moto Gloves | Boom! (Field-Tested)",
+    "assetId": "103662074340480",
+    "image": "rbxassetid://103662074340480"
+  },
+  "skin-b3e2c06aad05_3": {
+    "name": "★ Moto Gloves | Boom! (Well-Worn)",
+    "assetId": "115939149890672",
+    "image": "rbxassetid://115939149890672"
+  },
+  "skin-b3e2c06aad05_4": {
+    "name": "★ Moto Gloves | Boom! (Battle-Scarred)",
+    "assetId": "85188660473227",
+    "image": "rbxassetid://85188660473227"
+  },
+  "skin-0ab789f2f54c_0": {
+    "name": "★ Moto Gloves | Smoke Out (Factory New)",
+    "assetId": "97008513414718",
+    "image": "rbxassetid://97008513414718"
+  },
+  "skin-0ab789f2f54c_1": {
+    "name": "★ Moto Gloves | Smoke Out (Minimal Wear)",
+    "assetId": "135498470258459",
+    "image": "rbxassetid://135498470258459"
+  },
+  "skin-0ab789f2f54c_2": {
+    "name": "★ Moto Gloves | Smoke Out (Field-Tested)",
+    "assetId": "119891446412149",
+    "image": "rbxassetid://119891446412149"
+  },
+  "skin-0ab789f2f54c_3": {
+    "name": "★ Moto Gloves | Smoke Out (Well-Worn)",
+    "assetId": "131281870370984",
+    "image": "rbxassetid://131281870370984"
+  },
+  "skin-0ab789f2f54c_4": {
+    "name": "★ Moto Gloves | Smoke Out (Battle-Scarred)",
+    "assetId": "102759168382407",
+    "image": "rbxassetid://102759168382407"
+  },
+  "skin-510d868c343b_0": {
+    "name": "★ Moto Gloves | Cool Mint (Factory New)",
+    "assetId": "111643749099937",
+    "image": "rbxassetid://111643749099937"
+  },
+  "skin-510d868c343b_1": {
+    "name": "★ Moto Gloves | Cool Mint (Minimal Wear)",
+    "assetId": "99655171753097",
+    "image": "rbxassetid://99655171753097"
+  },
+  "skin-510d868c343b_2": {
+    "name": "★ Moto Gloves | Cool Mint (Field-Tested)",
+    "assetId": "77784776885941",
+    "image": "rbxassetid://77784776885941"
+  },
+  "skin-510d868c343b_3": {
+    "name": "★ Moto Gloves | Cool Mint (Well-Worn)",
+    "assetId": "105385475733067",
+    "image": "rbxassetid://105385475733067"
+  },
+  "skin-510d868c343b_4": {
+    "name": "★ Moto Gloves | Cool Mint (Battle-Scarred)",
+    "assetId": "78426039753864",
+    "image": "rbxassetid://78426039753864"
+  },
+  "skin-bfd054b9c87b_0": {
+    "name": "★ Moto Gloves | Polygon (Factory New)",
+    "assetId": "125666430836820",
+    "image": "rbxassetid://125666430836820"
+  },
+  "skin-bfd054b9c87b_1": {
+    "name": "★ Moto Gloves | Polygon (Minimal Wear)",
+    "assetId": "100363688968301",
+    "image": "rbxassetid://100363688968301"
+  },
+  "skin-bfd054b9c87b_2": {
+    "name": "★ Moto Gloves | Polygon (Field-Tested)",
+    "assetId": "129904876599242",
+    "image": "rbxassetid://129904876599242"
+  },
+  "skin-bfd054b9c87b_3": {
+    "name": "★ Moto Gloves | Polygon (Well-Worn)",
+    "assetId": "116528632031157",
+    "image": "rbxassetid://116528632031157"
+  },
+  "skin-bfd054b9c87b_4": {
+    "name": "★ Moto Gloves | Polygon (Battle-Scarred)",
+    "assetId": "131550877690077",
+    "image": "rbxassetid://131550877690077"
+  },
+  "skin-27fbe222018d_0": {
+    "name": "★ Moto Gloves | Transport (Factory New)",
+    "assetId": "87527066947665",
+    "image": "rbxassetid://87527066947665"
+  },
+  "skin-27fbe222018d_1": {
+    "name": "★ Moto Gloves | Transport (Minimal Wear)",
+    "assetId": "85290362425574",
+    "image": "rbxassetid://85290362425574"
+  },
+  "skin-27fbe222018d_2": {
+    "name": "★ Moto Gloves | Transport (Field-Tested)",
+    "assetId": "90042278516144",
+    "image": "rbxassetid://90042278516144"
+  },
+  "skin-27fbe222018d_3": {
+    "name": "★ Moto Gloves | Transport (Well-Worn)",
+    "assetId": "85372186329650",
+    "image": "rbxassetid://85372186329650"
+  },
+  "skin-27fbe222018d_4": {
+    "name": "★ Moto Gloves | Transport (Battle-Scarred)",
+    "assetId": "123790341139279",
+    "image": "rbxassetid://123790341139279"
+  },
+  "skin-b8f492474850_0": {
+    "name": "★ Driver Gloves | Brocade Crane (Factory New)",
+    "assetId": "71065488482849",
+    "image": "rbxassetid://71065488482849"
+  },
+  "skin-b8f492474850_1": {
+    "name": "★ Driver Gloves | Brocade Crane (Minimal Wear)",
+    "assetId": "122284920498845",
+    "image": "rbxassetid://122284920498845"
+  },
+  "skin-b8f492474850_2": {
+    "name": "★ Driver Gloves | Brocade Crane (Field-Tested)",
+    "assetId": "80913080097879",
+    "image": "rbxassetid://80913080097879"
+  },
+  "skin-b8f492474850_3": {
+    "name": "★ Driver Gloves | Brocade Crane (Well-Worn)",
+    "assetId": "83746075766500",
+    "image": "rbxassetid://83746075766500"
+  },
+  "skin-b8f492474850_4": {
+    "name": "★ Driver Gloves | Brocade Crane (Battle-Scarred)",
+    "assetId": "82337809450790",
+    "image": "rbxassetid://82337809450790"
+  },
+  "skin-d9b9add3d4ae_0": {
+    "name": "★ Driver Gloves | Brocade Flowers (Factory New)",
+    "assetId": "85628750252487",
+    "image": "rbxassetid://85628750252487"
+  },
+  "skin-d9b9add3d4ae_1": {
+    "name": "★ Driver Gloves | Brocade Flowers (Minimal Wear)",
+    "assetId": "76647270730485",
+    "image": "rbxassetid://76647270730485"
+  },
+  "skin-d9b9add3d4ae_2": {
+    "name": "★ Driver Gloves | Brocade Flowers (Field-Tested)",
+    "assetId": "113711366513388",
+    "image": "rbxassetid://113711366513388"
+  },
+  "skin-d9b9add3d4ae_3": {
+    "name": "★ Driver Gloves | Brocade Flowers (Well-Worn)",
+    "assetId": "74075477888383",
+    "image": "rbxassetid://74075477888383"
+  },
+  "skin-d9b9add3d4ae_4": {
+    "name": "★ Driver Gloves | Brocade Flowers (Battle-Scarred)",
+    "assetId": "138870310483612",
+    "image": "rbxassetid://138870310483612"
+  },
+  "skin-f9ff211df27d_0": {
+    "name": "★ Driver Gloves | Dragon Fists (Factory New)",
+    "assetId": "74570716040933",
+    "image": "rbxassetid://74570716040933"
+  },
+  "skin-f9ff211df27d_1": {
+    "name": "★ Driver Gloves | Dragon Fists (Minimal Wear)",
+    "assetId": "91080629655627",
+    "image": "rbxassetid://91080629655627"
+  },
+  "skin-f9ff211df27d_2": {
+    "name": "★ Driver Gloves | Dragon Fists (Field-Tested)",
+    "assetId": "93495284674980",
+    "image": "rbxassetid://93495284674980"
+  },
+  "skin-f9ff211df27d_3": {
+    "name": "★ Driver Gloves | Dragon Fists (Well-Worn)",
+    "assetId": "107017470001338",
+    "image": "rbxassetid://107017470001338"
+  },
+  "skin-f9ff211df27d_4": {
+    "name": "★ Driver Gloves | Dragon Fists (Battle-Scarred)",
+    "assetId": "133370943716796",
+    "image": "rbxassetid://133370943716796"
+  },
+  "skin-2d7a4c354277_0": {
+    "name": "★ Driver Gloves | Garden (Factory New)",
+    "assetId": "84837211152957",
+    "image": "rbxassetid://84837211152957"
+  },
+  "skin-2d7a4c354277_1": {
+    "name": "★ Driver Gloves | Garden (Minimal Wear)",
+    "assetId": "73860166713202",
+    "image": "rbxassetid://73860166713202"
+  },
+  "skin-2d7a4c354277_2": {
+    "name": "★ Driver Gloves | Garden (Field-Tested)",
+    "assetId": "123293666891044",
+    "image": "rbxassetid://123293666891044"
+  },
+  "skin-2d7a4c354277_4": {
+    "name": "★ Driver Gloves | Garden (Battle-Scarred)",
+    "assetId": "98659017263749",
+    "image": "rbxassetid://98659017263749"
+  },
+  "skin-25977544c37d_0": {
+    "name": "★ Driver Gloves | Hand Sweaters (Factory New)",
+    "assetId": "71542595797467",
+    "image": "rbxassetid://71542595797467"
+  },
+  "skin-25977544c37d_1": {
+    "name": "★ Driver Gloves | Hand Sweaters (Minimal Wear)",
+    "assetId": "88730933679006",
+    "image": "rbxassetid://88730933679006"
+  },
+  "skin-25977544c37d_2": {
+    "name": "★ Driver Gloves | Hand Sweaters (Field-Tested)",
+    "assetId": "115063522551331",
+    "image": "rbxassetid://115063522551331"
+  },
+  "skin-25977544c37d_3": {
+    "name": "★ Driver Gloves | Hand Sweaters (Well-Worn)",
+    "assetId": "117300158527879",
+    "image": "rbxassetid://117300158527879"
+  },
+  "skin-25977544c37d_4": {
+    "name": "★ Driver Gloves | Hand Sweaters (Battle-Scarred)",
+    "assetId": "105127606887520",
+    "image": "rbxassetid://105127606887520"
+  },
+  "skin-c79f644ef9e1_0": {
+    "name": "★ Driver Gloves | Plum Quill (Factory New)",
+    "assetId": "91553074543438",
+    "image": "rbxassetid://91553074543438"
+  },
+  "skin-c79f644ef9e1_1": {
+    "name": "★ Driver Gloves | Plum Quill (Minimal Wear)",
+    "assetId": "94292636263084",
+    "image": "rbxassetid://94292636263084"
+  },
+  "skin-c79f644ef9e1_2": {
+    "name": "★ Driver Gloves | Plum Quill (Field-Tested)",
+    "assetId": "96813622170538",
+    "image": "rbxassetid://96813622170538"
+  },
+  "skin-c79f644ef9e1_3": {
+    "name": "★ Driver Gloves | Plum Quill (Well-Worn)",
+    "assetId": "102663736500604",
+    "image": "rbxassetid://102663736500604"
+  },
+  "skin-c79f644ef9e1_4": {
+    "name": "★ Driver Gloves | Plum Quill (Battle-Scarred)",
+    "assetId": "124283927904774",
+    "image": "rbxassetid://124283927904774"
+  },
+  "skin-f31ff8147493_0": {
+    "name": "★ Driver Gloves | Seigaiha (Factory New)",
+    "assetId": "110940868127636",
+    "image": "rbxassetid://110940868127636"
+  },
+  "skin-f31ff8147493_1": {
+    "name": "★ Driver Gloves | Seigaiha (Minimal Wear)",
+    "assetId": "129291977103791",
+    "image": "rbxassetid://129291977103791"
+  },
+  "skin-f31ff8147493_2": {
+    "name": "★ Driver Gloves | Seigaiha (Field-Tested)",
+    "assetId": "88466144487637",
+    "image": "rbxassetid://88466144487637"
+  },
+  "skin-f31ff8147493_3": {
+    "name": "★ Driver Gloves | Seigaiha (Well-Worn)",
+    "assetId": "126031001510144",
+    "image": "rbxassetid://126031001510144"
+  },
+  "skin-f31ff8147493_4": {
+    "name": "★ Driver Gloves | Seigaiha (Battle-Scarred)",
+    "assetId": "121968548112492",
+    "image": "rbxassetid://121968548112492"
+  },
+  "skin-b1dcd2af898f_0": {
+    "name": "★ Driver Gloves | Wave Chaser (Factory New)",
+    "assetId": "81786511201258",
+    "image": "rbxassetid://81786511201258"
+  },
+  "skin-b1dcd2af898f_1": {
+    "name": "★ Driver Gloves | Wave Chaser (Minimal Wear)",
+    "assetId": "127682998392587",
+    "image": "rbxassetid://127682998392587"
+  },
+  "skin-b1dcd2af898f_2": {
+    "name": "★ Driver Gloves | Wave Chaser (Field-Tested)",
+    "assetId": "135692814853239",
+    "image": "rbxassetid://135692814853239"
+  },
+  "skin-b1dcd2af898f_3": {
+    "name": "★ Driver Gloves | Wave Chaser (Well-Worn)",
+    "assetId": "90102876782301",
+    "image": "rbxassetid://90102876782301"
+  },
+  "skin-b1dcd2af898f_4": {
+    "name": "★ Driver Gloves | Wave Chaser (Battle-Scarred)",
+    "assetId": "130725313433237",
+    "image": "rbxassetid://130725313433237"
+  },
+  "skin-e8384ee7aa31_0": {
+    "name": "★ Driver Gloves | Lunar Weave (Factory New)",
+    "assetId": "73147916860784",
+    "image": "rbxassetid://73147916860784"
+  },
+  "skin-e8384ee7aa31_1": {
+    "name": "★ Driver Gloves | Lunar Weave (Minimal Wear)",
+    "assetId": "90953566191945",
+    "image": "rbxassetid://90953566191945"
+  },
+  "skin-e8384ee7aa31_2": {
+    "name": "★ Driver Gloves | Lunar Weave (Field-Tested)",
+    "assetId": "113928451112481",
+    "image": "rbxassetid://113928451112481"
+  },
+  "skin-e8384ee7aa31_3": {
+    "name": "★ Driver Gloves | Lunar Weave (Well-Worn)",
+    "assetId": "120209511761984",
+    "image": "rbxassetid://120209511761984"
+  },
+  "skin-e8384ee7aa31_4": {
+    "name": "★ Driver Gloves | Lunar Weave (Battle-Scarred)",
+    "assetId": "118774094344156",
+    "image": "rbxassetid://118774094344156"
+  },
+  "skin-30ad2640a228_0": {
+    "name": "★ Driver Gloves | Snow Leopard (Factory New)",
+    "assetId": "122215519733748",
+    "image": "rbxassetid://122215519733748"
+  },
+  "skin-30ad2640a228_1": {
+    "name": "★ Driver Gloves | Snow Leopard (Minimal Wear)",
+    "assetId": "106866868443929",
+    "image": "rbxassetid://106866868443929"
+  },
+  "skin-30ad2640a228_2": {
+    "name": "★ Driver Gloves | Snow Leopard (Field-Tested)",
+    "assetId": "107378212050980",
+    "image": "rbxassetid://107378212050980"
+  },
+  "skin-30ad2640a228_3": {
+    "name": "★ Driver Gloves | Snow Leopard (Well-Worn)",
+    "assetId": "134227527482208",
+    "image": "rbxassetid://134227527482208"
+  },
+  "skin-30ad2640a228_4": {
+    "name": "★ Driver Gloves | Snow Leopard (Battle-Scarred)",
+    "assetId": "109186853931629",
+    "image": "rbxassetid://109186853931629"
+  },
+  "skin-5410329f8334_0": {
+    "name": "★ Driver Gloves | Queen Jaguar (Factory New)",
+    "assetId": "103012207228206",
+    "image": "rbxassetid://103012207228206"
+  },
+  "skin-5410329f8334_1": {
+    "name": "★ Driver Gloves | Queen Jaguar (Minimal Wear)",
+    "assetId": "94750334634848",
+    "image": "rbxassetid://94750334634848"
+  },
+  "skin-5410329f8334_2": {
+    "name": "★ Driver Gloves | Queen Jaguar (Field-Tested)",
+    "assetId": "100348438307898",
+    "image": "rbxassetid://100348438307898"
+  },
+  "skin-5410329f8334_3": {
+    "name": "★ Driver Gloves | Queen Jaguar (Well-Worn)",
+    "assetId": "82612343515913",
+    "image": "rbxassetid://82612343515913"
+  },
+  "skin-5410329f8334_4": {
+    "name": "★ Driver Gloves | Queen Jaguar (Battle-Scarred)",
+    "assetId": "111636362192461",
+    "image": "rbxassetid://111636362192461"
+  },
+  "skin-6875abfca574_0": {
+    "name": "★ Driver Gloves | Convoy (Factory New)",
+    "assetId": "98238510074486",
+    "image": "rbxassetid://98238510074486"
+  },
+  "skin-6875abfca574_1": {
+    "name": "★ Driver Gloves | Convoy (Minimal Wear)",
+    "assetId": "114579756861456",
+    "image": "rbxassetid://114579756861456"
+  },
+  "skin-6875abfca574_2": {
+    "name": "★ Driver Gloves | Convoy (Field-Tested)",
+    "assetId": "123270223909966",
+    "image": "rbxassetid://123270223909966"
+  },
+  "skin-6875abfca574_3": {
+    "name": "★ Driver Gloves | Convoy (Well-Worn)",
+    "assetId": "128007183028376",
+    "image": "rbxassetid://128007183028376"
+  },
+  "skin-6875abfca574_4": {
+    "name": "★ Driver Gloves | Convoy (Battle-Scarred)",
+    "assetId": "86421623982725",
+    "image": "rbxassetid://86421623982725"
+  },
+  "skin-7b51c8bd957b_0": {
+    "name": "★ Driver Gloves | Imperial Plaid (Factory New)",
+    "assetId": "75091139258367",
+    "image": "rbxassetid://75091139258367"
+  },
+  "skin-7b51c8bd957b_1": {
+    "name": "★ Driver Gloves | Imperial Plaid (Minimal Wear)",
+    "assetId": "111941103480668",
+    "image": "rbxassetid://111941103480668"
+  },
+  "skin-7b51c8bd957b_2": {
+    "name": "★ Driver Gloves | Imperial Plaid (Field-Tested)",
+    "assetId": "130864824386812",
+    "image": "rbxassetid://130864824386812"
+  },
+  "skin-7b51c8bd957b_3": {
+    "name": "★ Driver Gloves | Imperial Plaid (Well-Worn)",
+    "assetId": "117444693246026",
+    "image": "rbxassetid://117444693246026"
+  },
+  "skin-7b51c8bd957b_4": {
+    "name": "★ Driver Gloves | Imperial Plaid (Battle-Scarred)",
+    "assetId": "80968598518637",
+    "image": "rbxassetid://80968598518637"
+  },
+  "skin-941014ee5a6e_0": {
+    "name": "★ Driver Gloves | Crimson Weave (Factory New)",
+    "assetId": "111631067925814",
+    "image": "rbxassetid://111631067925814"
+  },
+  "skin-941014ee5a6e_1": {
+    "name": "★ Driver Gloves | Crimson Weave (Minimal Wear)",
+    "assetId": "71807849558973",
+    "image": "rbxassetid://71807849558973"
+  },
+  "skin-941014ee5a6e_2": {
+    "name": "★ Driver Gloves | Crimson Weave (Field-Tested)",
+    "assetId": "108708361431338",
+    "image": "rbxassetid://108708361431338"
+  },
+  "skin-941014ee5a6e_3": {
+    "name": "★ Driver Gloves | Crimson Weave (Well-Worn)",
+    "assetId": "123813693111880",
+    "image": "rbxassetid://123813693111880"
+  },
+  "skin-941014ee5a6e_4": {
+    "name": "★ Driver Gloves | Crimson Weave (Battle-Scarred)",
+    "assetId": "125063370613266",
+    "image": "rbxassetid://125063370613266"
+  },
+  "skin-3344646c8178_0": {
+    "name": "★ Driver Gloves | Rezan the Red (Factory New)",
+    "assetId": "128435101787574",
+    "image": "rbxassetid://128435101787574"
+  },
+  "skin-3344646c8178_1": {
+    "name": "★ Driver Gloves | Rezan the Red (Minimal Wear)",
+    "assetId": "85389389668395",
+    "image": "rbxassetid://85389389668395"
+  },
+  "skin-3344646c8178_2": {
+    "name": "★ Driver Gloves | Rezan the Red (Field-Tested)",
+    "assetId": "117428894338753",
+    "image": "rbxassetid://117428894338753"
+  },
+  "skin-3344646c8178_3": {
+    "name": "★ Driver Gloves | Rezan the Red (Well-Worn)",
+    "assetId": "82678793298245",
+    "image": "rbxassetid://82678793298245"
+  },
+  "skin-3344646c8178_4": {
+    "name": "★ Driver Gloves | Rezan the Red (Battle-Scarred)",
+    "assetId": "112114554358436",
+    "image": "rbxassetid://112114554358436"
+  },
+  "skin-ead101bfb2c9_0": {
+    "name": "★ Driver Gloves | King Snake (Factory New)",
+    "assetId": "96441927470083",
+    "image": "rbxassetid://96441927470083"
+  },
+  "skin-ead101bfb2c9_1": {
+    "name": "★ Driver Gloves | King Snake (Minimal Wear)",
+    "assetId": "102630391848485",
+    "image": "rbxassetid://102630391848485"
+  },
+  "skin-ead101bfb2c9_2": {
+    "name": "★ Driver Gloves | King Snake (Field-Tested)",
+    "assetId": "120669918347761",
+    "image": "rbxassetid://120669918347761"
+  },
+  "skin-ead101bfb2c9_3": {
+    "name": "★ Driver Gloves | King Snake (Well-Worn)",
+    "assetId": "70885001951840",
+    "image": "rbxassetid://70885001951840"
+  },
+  "skin-ead101bfb2c9_4": {
+    "name": "★ Driver Gloves | King Snake (Battle-Scarred)",
+    "assetId": "96801756774062",
+    "image": "rbxassetid://96801756774062"
+  },
+  "skin-52a9a70cdd76_0": {
+    "name": "★ Driver Gloves | Diamondback (Factory New)",
+    "assetId": "86429861249674",
+    "image": "rbxassetid://86429861249674"
+  },
+  "skin-52a9a70cdd76_1": {
+    "name": "★ Driver Gloves | Diamondback (Minimal Wear)",
+    "assetId": "112099084166638",
+    "image": "rbxassetid://112099084166638"
+  },
+  "skin-52a9a70cdd76_2": {
+    "name": "★ Driver Gloves | Diamondback (Field-Tested)",
+    "assetId": "125647734844536",
+    "image": "rbxassetid://125647734844536"
+  },
+  "skin-52a9a70cdd76_3": {
+    "name": "★ Driver Gloves | Diamondback (Well-Worn)",
+    "assetId": "109611796336074",
+    "image": "rbxassetid://109611796336074"
+  },
+  "skin-52a9a70cdd76_4": {
+    "name": "★ Driver Gloves | Diamondback (Battle-Scarred)",
+    "assetId": "97813312431816",
+    "image": "rbxassetid://97813312431816"
+  },
+  "skin-56be8a3a2bb8_0": {
+    "name": "★ Driver Gloves | Overtake (Factory New)",
+    "assetId": "124788025354841",
+    "image": "rbxassetid://124788025354841"
+  },
+  "skin-56be8a3a2bb8_1": {
+    "name": "★ Driver Gloves | Overtake (Minimal Wear)",
+    "assetId": "86179547114730",
+    "image": "rbxassetid://86179547114730"
+  },
+  "skin-56be8a3a2bb8_2": {
+    "name": "★ Driver Gloves | Overtake (Field-Tested)",
+    "assetId": "136627746995869",
+    "image": "rbxassetid://136627746995869"
+  },
+  "skin-56be8a3a2bb8_3": {
+    "name": "★ Driver Gloves | Overtake (Well-Worn)",
+    "assetId": "87358340999948",
+    "image": "rbxassetid://87358340999948"
+  },
+  "skin-56be8a3a2bb8_4": {
+    "name": "★ Driver Gloves | Overtake (Battle-Scarred)",
+    "assetId": "98318589476940",
+    "image": "rbxassetid://98318589476940"
+  },
+  "skin-31ec4a2f49a1_0": {
+    "name": "★ Driver Gloves | Black Tie (Factory New)",
+    "assetId": "130896290331863",
+    "image": "rbxassetid://130896290331863"
+  },
+  "skin-31ec4a2f49a1_1": {
+    "name": "★ Driver Gloves | Black Tie (Minimal Wear)",
+    "assetId": "98429258536812",
+    "image": "rbxassetid://98429258536812"
+  },
+  "skin-31ec4a2f49a1_2": {
+    "name": "★ Driver Gloves | Black Tie (Field-Tested)",
+    "assetId": "127234938225807",
+    "image": "rbxassetid://127234938225807"
+  },
+  "skin-31ec4a2f49a1_3": {
+    "name": "★ Driver Gloves | Black Tie (Well-Worn)",
+    "assetId": "138310020294060",
+    "image": "rbxassetid://138310020294060"
+  },
+  "skin-31ec4a2f49a1_4": {
+    "name": "★ Driver Gloves | Black Tie (Battle-Scarred)",
+    "assetId": "78778238163973",
+    "image": "rbxassetid://78778238163973"
+  },
+  "skin-5e8f5f1fecb1_0": {
+    "name": "★ Driver Gloves | Racing Green (Factory New)",
+    "assetId": "128343796799678",
+    "image": "rbxassetid://128343796799678"
+  },
+  "skin-5e8f5f1fecb1_1": {
+    "name": "★ Driver Gloves | Racing Green (Minimal Wear)",
+    "assetId": "126887851848723",
+    "image": "rbxassetid://126887851848723"
+  },
+  "skin-5e8f5f1fecb1_2": {
+    "name": "★ Driver Gloves | Racing Green (Field-Tested)",
+    "assetId": "99455256403527",
+    "image": "rbxassetid://99455256403527"
+  },
+  "skin-5e8f5f1fecb1_3": {
+    "name": "★ Driver Gloves | Racing Green (Well-Worn)",
+    "assetId": "130224414139923",
+    "image": "rbxassetid://130224414139923"
+  },
+  "skin-5e8f5f1fecb1_4": {
+    "name": "★ Driver Gloves | Racing Green (Battle-Scarred)",
+    "assetId": "120577190415350",
+    "image": "rbxassetid://120577190415350"
+  },
+  "skin-7b77498783da_0": {
+    "name": "★ Specialist Gloves | Lime Polycam (Factory New)",
+    "assetId": "91139035722456",
+    "image": "rbxassetid://91139035722456"
+  },
+  "skin-7b77498783da_1": {
+    "name": "★ Specialist Gloves | Lime Polycam (Minimal Wear)",
+    "assetId": "81486212848266",
+    "image": "rbxassetid://81486212848266"
+  },
+  "skin-7b77498783da_2": {
+    "name": "★ Specialist Gloves | Lime Polycam (Field-Tested)",
+    "assetId": "125289602613097",
+    "image": "rbxassetid://125289602613097"
+  },
+  "skin-7b77498783da_3": {
+    "name": "★ Specialist Gloves | Lime Polycam (Well-Worn)",
+    "assetId": "109493219614864",
+    "image": "rbxassetid://109493219614864"
+  },
+  "skin-7b77498783da_4": {
+    "name": "★ Specialist Gloves | Lime Polycam (Battle-Scarred)",
+    "assetId": "136790374957471",
+    "image": "rbxassetid://136790374957471"
+  },
+  "skin-1f8f2cadf55b_0": {
+    "name": "★ Specialist Gloves | Cloud Chaser (Factory New)",
+    "assetId": "134039490129917",
+    "image": "rbxassetid://134039490129917"
+  },
+  "skin-1f8f2cadf55b_1": {
+    "name": "★ Specialist Gloves | Cloud Chaser (Minimal Wear)",
+    "assetId": "88002064695409",
+    "image": "rbxassetid://88002064695409"
+  },
+  "leather_handwraps__handwrap_camo_grey": {
+    "designKey": "leather_handwraps__handwrap_camo_grey",
+    "name": "★ Hand Wraps | Spruce DDPAT (Factory New)",
+    "assetId": "114751929449642",
+    "image": "rbxassetid://114751929449642"
+  },
+  "leather_handwraps__handwrap_fabric_houndstooth_orange": {
+    "designKey": "leather_handwraps__handwrap_fabric_houndstooth_orange",
+    "name": "★ Hand Wraps | Desert Shamagh (Factory New)",
+    "assetId": "137582285995399",
+    "image": "rbxassetid://137582285995399"
+  },
+  "leather_handwraps__handwrap_fabric_orange_camo": {
+    "designKey": "leather_handwraps__handwrap_fabric_orange_camo",
+    "name": "★ Hand Wraps | Badlands (Factory New)",
+    "assetId": "106508042416789",
+    "image": "rbxassetid://106508042416789"
+  },
+  "leather_handwraps__handwrap_leathery_caution": {
+    "designKey": "leather_handwraps__handwrap_leathery_caution",
+    "name": "★ Hand Wraps | CAUTION! (Factory New)",
+    "assetId": "113136187933925",
+    "image": "rbxassetid://113136187933925"
+  },
+  "leather_handwraps__handwrap_leathery_ducttape": {
+    "designKey": "leather_handwraps__handwrap_leathery_ducttape",
+    "name": "★ Hand Wraps | Duct Tape (Factory New)",
+    "assetId": "99166580007237",
+    "image": "rbxassetid://99166580007237"
+  },
+  "leather_handwraps__handwrap_leathery_fabric_blue_skulls": {
+    "designKey": "leather_handwraps__handwrap_leathery_fabric_blue_skulls",
+    "name": "★ Hand Wraps | Cobalt Skulls (Factory New)",
+    "assetId": "121962501476069",
+    "image": "rbxassetid://121962501476069"
+  },
+  "leather_handwraps__handwrap_leathery_fabric_geometric_blue": {
+    "designKey": "leather_handwraps__handwrap_leathery_fabric_geometric_blue",
+    "name": "★ Hand Wraps | Overprint (Factory New)",
+    "assetId": "140222791436288",
+    "image": "rbxassetid://140222791436288"
+  },
+  "leather_handwraps__handwrap_leathery_fabric_giraffe": {
+    "designKey": "leather_handwraps__handwrap_leathery_fabric_giraffe",
+    "name": "★ Hand Wraps | Giraffe (Factory New)",
+    "assetId": "112925148891296",
+    "image": "rbxassetid://112925148891296"
+  },
+  "leather_handwraps__handwrap_leathery_fabric_green_camo": {
+    "designKey": "leather_handwraps__handwrap_leathery_fabric_green_camo",
+    "name": "★ Hand Wraps | Arboreal (Factory New)",
+    "assetId": "114848835698053",
+    "image": "rbxassetid://114848835698053"
+  },
+  "leather_handwraps__handwrap_leathery": {
+    "designKey": "leather_handwraps__handwrap_leathery",
+    "name": "★ Hand Wraps | Leather (Factory New)",
+    "assetId": "100064442771012",
+    "image": "rbxassetid://100064442771012"
+  },
+  "leather_handwraps__handwrap_leathery_snakeskin_orange": {
+    "designKey": "leather_handwraps__handwrap_leathery_snakeskin_orange",
+    "name": "★ Hand Wraps | Constrictor (Factory New)",
+    "assetId": "84201820012896",
+    "image": "rbxassetid://84201820012896"
+  },
+  "leather_handwraps__handwrap_red_slaughter": {
+    "designKey": "leather_handwraps__handwrap_red_slaughter",
+    "name": "★ Hand Wraps | Slaughter (Factory New)",
+    "assetId": "103094410355343",
+    "image": "rbxassetid://103094410355343"
+  },
+  "motorcycle_gloves__motorcycle_basic_black": {
+    "designKey": "motorcycle_gloves__motorcycle_basic_black",
+    "name": "★ Moto Gloves | Eclipse (Factory New)",
+    "assetId": "111036097073851",
+    "image": "rbxassetid://111036097073851"
+  },
+  "motorcycle_gloves__motorcycle_basic_green_orange": {
+    "designKey": "motorcycle_gloves__motorcycle_basic_green_orange",
+    "name": "★ Moto Gloves | Turtle (Factory New)",
+    "assetId": "86073080646031",
+    "image": "rbxassetid://86073080646031"
+  },
+  "motorcycle_gloves__motorcycle_carbonfiber_red": {
+    "designKey": "motorcycle_gloves__motorcycle_carbonfiber_red",
+    "name": "★ Moto Gloves | Blood Pressure (Factory New)",
+    "assetId": "77811634748010",
+    "image": "rbxassetid://77811634748010"
+  },
+  "motorcycle_gloves__motorcycle_checker_flag_blue_green": {
+    "designKey": "motorcycle_gloves__motorcycle_checker_flag_blue_green",
+    "name": "★ Moto Gloves | Finish Line (Factory New)",
+    "assetId": "128119315722996",
+    "image": "rbxassetid://128119315722996"
+  },
+  "motorcycle_gloves__motorcycle_choco_boom": {
+    "designKey": "motorcycle_gloves__motorcycle_choco_boom",
+    "name": "★ Moto Gloves | POW! (Factory New)",
+    "assetId": "99190991199086",
+    "image": "rbxassetid://99190991199086"
+  },
+  "motorcycle_gloves__motorcycle_commando_ksk": {
+    "designKey": "motorcycle_gloves__motorcycle_commando_ksk",
+    "name": "★ Moto Gloves | 3rd Commando Company (Factory New)",
+    "assetId": "86641805686086",
+    "image": "rbxassetid://86641805686086"
+  },
+  "motorcycle_gloves__motorcycle_mint_triangle": {
+    "designKey": "motorcycle_gloves__motorcycle_mint_triangle",
+    "name": "★ Moto Gloves | Spearmint (Factory New)",
+    "assetId": "128274116951334",
+    "image": "rbxassetid://128274116951334"
+  },
+  "motorcycle_gloves__motorcycle_mono_boom": {
+    "designKey": "motorcycle_gloves__motorcycle_mono_boom",
+    "name": "★ Moto Gloves | Boom! (Factory New)",
+    "assetId": "124909001857507",
+    "image": "rbxassetid://124909001857507"
+  },
+  "motorcycle_gloves__motorcycle_smoke": {
+    "designKey": "motorcycle_gloves__motorcycle_smoke",
+    "name": "★ Moto Gloves | Smoke Out (Factory New)",
+    "assetId": "97008513414718",
+    "image": "rbxassetid://97008513414718"
+  },
+  "motorcycle_gloves__motorcycle_triangle_blue": {
+    "designKey": "motorcycle_gloves__motorcycle_triangle_blue",
+    "name": "★ Moto Gloves | Cool Mint (Factory New)",
+    "assetId": "111643749099937",
+    "image": "rbxassetid://111643749099937"
+  },
+  "motorcycle_gloves__motorcycle_trigrid_blue": {
+    "designKey": "motorcycle_gloves__motorcycle_trigrid_blue",
+    "name": "★ Moto Gloves | Polygon (Factory New)",
+    "assetId": "125666430836820",
+    "image": "rbxassetid://125666430836820"
+  },
+  "motorcycle_gloves__motorcycle_yellow_camo": {
+    "designKey": "motorcycle_gloves__motorcycle_yellow_camo",
+    "name": "★ Moto Gloves | Transport (Factory New)",
+    "assetId": "87527066947665",
+    "image": "rbxassetid://87527066947665"
+  },
+  "slick_gloves__glove_driver_brocade_crane_red": {
+    "designKey": "slick_gloves__glove_driver_brocade_crane_red",
+    "name": "★ Driver Gloves | Brocade Crane (Factory New)",
+    "assetId": "71065488482849",
+    "image": "rbxassetid://71065488482849"
+  },
+  "slick_gloves__glove_driver_brocade_flower_red": {
+    "designKey": "slick_gloves__glove_driver_brocade_flower_red",
+    "name": "★ Driver Gloves | Brocade Flowers (Factory New)",
+    "assetId": "85628750252487",
+    "image": "rbxassetid://85628750252487"
+  },
+  "slick_gloves__glove_driver_dragon_scale_red": {
+    "designKey": "slick_gloves__glove_driver_dragon_scale_red",
+    "name": "★ Driver Gloves | Dragon Fists (Factory New)",
+    "assetId": "74570716040933",
+    "image": "rbxassetid://74570716040933"
+  },
+  "slick_gloves__glove_driver_embroidered_flowers_teal": {
+    "designKey": "slick_gloves__glove_driver_embroidered_flowers_teal",
+    "name": "★ Driver Gloves | Garden (Factory New)",
+    "assetId": "84837211152957",
+    "image": "rbxassetid://84837211152957"
+  },
+  "slick_gloves__glove_driver_knit_argyle_green": {
+    "designKey": "slick_gloves__glove_driver_knit_argyle_green",
+    "name": "★ Driver Gloves | Hand Sweaters (Factory New)",
+    "assetId": "71542595797467",
+    "image": "rbxassetid://71542595797467"
+  },
+  "slick_gloves__glove_driver_ostrich_purple": {
+    "designKey": "slick_gloves__glove_driver_ostrich_purple",
+    "name": "★ Driver Gloves | Plum Quill (Factory New)",
+    "assetId": "91553074543438",
+    "image": "rbxassetid://91553074543438"
+  },
+  "slick_gloves__glove_driver_scallop_metallic_blue": {
+    "designKey": "slick_gloves__glove_driver_scallop_metallic_blue",
+    "name": "★ Driver Gloves | Seigaiha (Factory New)",
+    "assetId": "110940868127636",
+    "image": "rbxassetid://110940868127636"
+  },
+  "slick_gloves__glove_driver_silk_dragon_white": {
+    "designKey": "slick_gloves__glove_driver_silk_dragon_white",
+    "name": "★ Driver Gloves | Wave Chaser (Factory New)",
+    "assetId": "81786511201258",
+    "image": "rbxassetid://81786511201258"
+  },
+  "slick_gloves__slick_black": {
+    "designKey": "slick_gloves__slick_black",
+    "name": "★ Driver Gloves | Lunar Weave (Factory New)",
+    "assetId": "73147916860784",
+    "image": "rbxassetid://73147916860784"
+  },
+  "slick_gloves__slick_jaguar_white": {
+    "designKey": "slick_gloves__slick_jaguar_white",
+    "name": "★ Driver Gloves | Snow Leopard (Factory New)",
+    "assetId": "122215519733748",
+    "image": "rbxassetid://122215519733748"
+  },
+  "slick_gloves__slick_jaguar_yellow": {
+    "designKey": "slick_gloves__slick_jaguar_yellow",
+    "name": "★ Driver Gloves | Queen Jaguar (Factory New)",
+    "assetId": "103012207228206",
+    "image": "rbxassetid://103012207228206"
+  },
+  "slick_gloves__slick_military": {
+    "designKey": "slick_gloves__slick_military",
+    "name": "★ Driver Gloves | Convoy (Factory New)",
+    "assetId": "98238510074486",
+    "image": "rbxassetid://98238510074486"
+  },
+  "slick_gloves__slick_plaid_purple": {
+    "designKey": "slick_gloves__slick_plaid_purple",
+    "name": "★ Driver Gloves | Imperial Plaid (Factory New)",
+    "assetId": "75091139258367",
+    "image": "rbxassetid://75091139258367"
+  },
+  "slick_gloves__slick_red": {
+    "designKey": "slick_gloves__slick_red",
+    "name": "★ Driver Gloves | Crimson Weave (Factory New)",
+    "assetId": "111631067925814",
+    "image": "rbxassetid://111631067925814"
+  },
+  "slick_gloves__slick_rezan": {
+    "designKey": "slick_gloves__slick_rezan",
+    "name": "★ Driver Gloves | Rezan the Red (Factory New)",
+    "assetId": "128435101787574",
+    "image": "rbxassetid://128435101787574"
+  },
+  "slick_gloves__slick_snakeskin_white": {
+    "designKey": "slick_gloves__slick_snakeskin_white",
+    "name": "★ Driver Gloves | King Snake (Factory New)",
+    "assetId": "96441927470083",
+    "image": "rbxassetid://96441927470083"
+  },
+  "slick_gloves__slick_snakeskin_yellow": {
+    "designKey": "slick_gloves__slick_snakeskin_yellow",
+    "name": "★ Driver Gloves | Diamondback (Factory New)",
+    "assetId": "86429861249674",
+    "image": "rbxassetid://86429861249674"
+  },
+  "slick_gloves__slick_stitched_black_orange": {
+    "designKey": "slick_gloves__slick_stitched_black_orange",
+    "name": "★ Driver Gloves | Overtake (Factory New)",
+    "assetId": "124788025354841",
+    "image": "rbxassetid://124788025354841"
+  },
+  "slick_gloves__slick_stitched_black_white": {
+    "designKey": "slick_gloves__slick_stitched_black_white",
+    "name": "★ Driver Gloves | Black Tie (Factory New)",
+    "assetId": "130896290331863",
+    "image": "rbxassetid://130896290331863"
+  },
+  "slick_gloves__slick_stitched_green_grey": {
+    "designKey": "slick_gloves__slick_stitched_green_grey",
+    "name": "★ Driver Gloves | Racing Green (Factory New)",
+    "assetId": "128343796799678",
+    "image": "rbxassetid://128343796799678"
+  },
+  "specialist_gloves__glove_specialist_abstract_green": {
+    "designKey": "specialist_gloves__glove_specialist_abstract_green",
+    "name": "★ Specialist Gloves | Lime Polycam (Factory New)",
+    "assetId": "91139035722456",
+    "image": "rbxassetid://91139035722456"
+  },
+  "specialist_gloves__glove_specialist_dragon_blue": {
+    "designKey": "specialist_gloves__glove_specialist_dragon_blue",
+    "name": "★ Specialist Gloves | Cloud Chaser (Factory New)",
+    "assetId": "134039490129917",
+    "image": "rbxassetid://134039490129917"
+  },
+  "specialist_gloves__glove_specialist_graffiti_black": {
+    "designKey": "specialist_gloves__glove_specialist_graffiti_black",
+    "name": "★ Specialist Gloves | Blackbook (Factory New)",
+    "assetId": "121150418450676",
+    "image": "rbxassetid://121150418450676"
+  },
+  "specialist_gloves__glove_specialist_quilted_black": {
+    "designKey": "specialist_gloves__glove_specialist_quilted_black",
+    "name": "★ Specialist Gloves | Chocolate Chesterfield (Factory New)",
+    "assetId": "114675863301410",
+    "image": "rbxassetid://114675863301410"
+  },
+  "specialist_gloves__glove_specialist_quilted_white": {
+    "designKey": "specialist_gloves__glove_specialist_quilted_white",
+    "name": "★ Specialist Gloves | Pillow Punchers (Factory New)",
+    "assetId": "94965953783103",
+    "image": "rbxassetid://94965953783103"
+  },
+  "specialist_gloves__glove_specialist_sunburst_red": {
+    "designKey": "specialist_gloves__glove_specialist_sunburst_red",
+    "name": "★ Specialist Gloves | Sunburst (Factory New)",
+    "assetId": "99688358394878",
+    "image": "rbxassetid://99688358394878"
+  },
+  "specialist_gloves__glove_specialist_wave_blue": {
+    "designKey": "specialist_gloves__glove_specialist_wave_blue",
+    "name": "★ Specialist Gloves | Big Swell (Factory New)",
+    "assetId": "111178755729320",
+    "image": "rbxassetid://111178755729320"
+  }
+}
